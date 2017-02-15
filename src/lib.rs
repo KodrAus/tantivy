@@ -26,7 +26,6 @@ extern crate lazy_static;
 #[macro_use]
 extern crate log;
 
-#[macro_use]
 extern crate fst;
 extern crate byteorder;
 extern crate memmap;
